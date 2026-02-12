@@ -17,7 +17,7 @@ starterProjects:
       remotes:
         origin: 'https://github.com/che-samples/nodejs-mongodb-sample'
       checkoutFrom:
-        revision: main
+        revision: test
 components:
   - name: tools
     container:
