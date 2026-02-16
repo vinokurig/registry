@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/go-toolset:1.24.4-1752083840
+FROM registry.access.redhat.com/ubi9/go-toolset:1.25.5-1770654497
 
 COPY go.mod ./
 RUN go mod download
